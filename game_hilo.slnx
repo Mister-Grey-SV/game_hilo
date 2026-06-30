@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="game_hilo.vcxproj" Id="8e63a890-d205-4ad8-8678-78b9ea40f013" />
+</Solution>
