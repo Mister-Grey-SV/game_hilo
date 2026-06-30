@@ -8,5 +8,5 @@ Functionality:
 - Customizable number range;
 - Customizable number of attempts;
 - Saving statistics between runs;
-- Generating random numbers using <random>;
+- Generating random numbers using "<random>";
 - Processing user input using getline + stoi.
